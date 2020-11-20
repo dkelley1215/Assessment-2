@@ -1,1 +1,26 @@
-
+div {
+    border-style: solid;
+    border-color: grey;    
+    cursor: pointer;
+    text-align: center;
+}
+ 
+div#Div1 { 
+    background-color: blue;
+    width: 1000px;    
+    height: 800px;
+}
+ 
+div#Div2 { 
+    background-color: orange;
+    width: 800px;
+    height: 600px;    
+    margin: 100px;
+}
+ 
+div#Div3 {
+    background-color: transparent;
+    width: 600px;
+    height: 400px;    
+    margin: 100px;
+}
